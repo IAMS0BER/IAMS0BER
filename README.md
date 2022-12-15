@@ -1,4 +1,4 @@
-### Hi there
+### Hi there I am sober I justs started learning code!
 
 <!--
 **IAMS0BER/IAMS0BER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
