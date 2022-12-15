@@ -1,7 +1,9 @@
 ### Bonjour! I am sober I just started learning code thanks to a stinky butt head.
 
-  <a href="https://twitter.com/IAMS0BER">
+  
+
+
+<a href="https://twitter.com/IAMS0BER">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-
-
+  
