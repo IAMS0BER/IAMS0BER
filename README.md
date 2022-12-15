@@ -1,4 +1,7 @@
 ### Hi there I am sober I justs started learning code!
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl" width="100"/>
+</div>
 
 <!--
 **IAMS0BER/IAMS0BER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
