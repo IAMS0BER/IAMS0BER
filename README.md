@@ -1,6 +1,6 @@
 ### Hi there I am sober I justs started learning code!
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47cwn04wk01sfz8jjg19frbebt151a3tw338t0wxy9&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media0.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47cwn04wk01sfz8jjg19frbebt151a3tw338t0wxy9&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 <!--
