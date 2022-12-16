@@ -1,4 +1,4 @@
-### Bonjour! I am sober and I am learning code thanks to a stinky butt head.
+### Bonjour! I am sober and I am learning c#, javascript and html! Thanks to a stinky butthead tutor.
 
   
 
