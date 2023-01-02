@@ -1,4 +1,4 @@
-### Bonjour! I am sober and I am learning c#, javascript and html! Thanks to a stinky butthead tutor
+### Bonjour! I am sober and I am learning c#, javascript and html! Thanks to a stinky butthead tutor.
 
 
 <div id="header" align="center">
