@@ -1,4 +1,4 @@
-<div align="center"> Bonjour! I am sober and I am learning c#, javascript and html! 
+ Bonjour! I am sober and I am learning c#, javascript and html! 
 
 
 <div id="header" align="center">
