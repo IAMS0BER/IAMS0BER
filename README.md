@@ -1,4 +1,4 @@
-# Bonjour! I am Sober and I am learning c#, javascript and html!!! 
+# Bonjour! I am Sober and I am learning c#, javascript and html for web design!
 
 
 <div id="header" align="center">
